@@ -11,7 +11,7 @@ import PomPages.AddToCart2;
 
 public class AddToCartExecute extends BaseClass {
 	
-	WebDriver driver;
+	
 	@Test
 	
 	public void tc() throws InterruptedException
